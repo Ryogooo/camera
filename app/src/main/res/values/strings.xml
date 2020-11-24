@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application13</string>
+    <string name="button">Button</string>
+    <string name="description">camera picture</string>
+    <string name="camera">カメラ起動</string>
+    <string name="turn">回転</string>
+</resources>
